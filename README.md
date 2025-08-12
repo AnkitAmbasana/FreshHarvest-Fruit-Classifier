@@ -37,6 +37,7 @@ To meet this standard, we developed an **AI-powered freshness inspection system*
 ---
 
 ## 🚀 Launch App
+[https://freshharvest-fruit-classifier.streamlit.app/](https://freshharvest-fruit-classifier.streamlit.app/)
 
 ![app](Project%20Screenshot%201.JPG)
 
@@ -47,7 +48,7 @@ To meet this standard, we developed an **AI-powered freshness inspection system*
 
    ```bash
    git clone https://github.com/AnkitAmbasana/FreshHarvest-Fruit-Classifier.git
-   cd FreshHarvest
+   cd FreshHarvest-Fruit-Classifier
    ```
 
 2. **Install Dependencies**
